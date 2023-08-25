@@ -1,0 +1,37 @@
+
+h1{
+    color: aliceblue;
+    background-color: #5a423a;
+
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#first{
+    width: 400px;
+}
+
+.container{
+    display: flex;
+    background-color: #5a423a;
+
+}
+
+.subcontainer{
+    text-align: center;
+    flex-direction: column;
+    color: aliceblue;
+    padding: 115px 20px;
+    
+}
+
+.photos{
+
+    display: inline-block;
+    width: 300px;
+    height: auto;
+}
+
+
+
+
